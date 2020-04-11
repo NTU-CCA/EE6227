@@ -18,7 +18,7 @@
 |Topic - 12|Real Coded Operations for GAs|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
 |Topic - 13|Evolution Strategy (ES)|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
 |Topic - 14|Differential Evolution (DE)|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
-|Topic - 15|Particle Swarm Optimization|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
+|Topic - 15|Particle Swarm Optimization (PSO)|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
 |Topic - 16|Variable Reduction Strategy (VRS)|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
 |Topic - 17|Niching and Multi-Modal Optimization|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
 |Topic - 18|Multi-Objective Optimization|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
@@ -27,6 +27,6 @@
 |Topic - 21|Kernel Ridge Regression (KRR)|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
 |Topic - 22|Random Forests|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
 |Topic - 23|Affinity Propagation|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
-|Topic - 24|Auto-Encoders|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
+|Topic - 24|Auto-Encoders and Deep Auto-Encoders|[[Slide](https://github.com/NTU-CCA/EE6222/blob/master/Slides/E6222-I-2SPP-1.pdf)]|Prof. [P. N. Suganthan](https://www.ntu.edu.sg/home/epnsugan/)
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
