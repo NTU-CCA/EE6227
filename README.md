@@ -1,5 +1,5 @@
-|![image](https://github.com/NTU-CCA/EE6227/blob/master/logo.png)|
-|---|
+*(NOTE: All the content was found on the Internet.)*
+
 # EE6227 - Genetic Algorithms &amp; Machine Learning
 
 ### Learning Objective:
@@ -20,10 +20,5 @@ After completing this course, students would be able to apply various evolutiona
 - T. Hastie, R. Tibshirani, and J. Friedman, "The Elements of Statistical Learning (Springer
 Series in Statistics), 9th Edition," <i>Springer</i>, 2017.
 - A. P. Engelbrecht, "Computational Intelligence: An Introduction," <i>Wiley</i>, 2007.
-
-### Notes:
-
-- [EE6227 Genetic Algorithms Note](https://github.com/NTU-CCA/EE6227/blob/master/Notes/EE6227%20Genetic%20Algorithms%20Note.pdf)
-- [EE6227 Course Summary](https://github.com/NTU-CCA/EE6227/blob/master/Notes/EE6227%20Course%20Summary.pdf)
 
 #### Copyright © School of Electrical & Electronic Engineering, Nanyang Technological University. All rights reserved.
